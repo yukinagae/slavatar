@@ -1,0 +1,5 @@
+package slavatar
+
+object Core {
+
+}
